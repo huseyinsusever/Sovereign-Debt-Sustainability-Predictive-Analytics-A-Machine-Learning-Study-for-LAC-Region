@@ -1,4 +1,4 @@
-# Sovereign-Debt-Sustainability-Predictive-Analytics-A-Machine-Learning-Study-for-LAC-Region
+# Global Debt Predictive Analytics & Sustainability Framework
 ## 🤖 Machine Learning Performance & Explainability
 
 To ensure high-fidelity projections, a **Random Forest Regressor** was utilized. The model's reliability was validated through two key metrics:
